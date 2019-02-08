@@ -29,7 +29,7 @@
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Clarence Taylor</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://scontent-dub4-1.xx.fbcdn.net/v/t1.0-9/17884413_1179584332152090_8339603687848117316_n.jpg?_nc_cat=100&_nc_ht=scontent-dub4-1.xx&oh=f2cdb9d79c7c739cc83737f005f7def1&oe=5CEA9E4B" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

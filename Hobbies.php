@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>jQuery Tilted Page Scroll by Pete R. | The Pete Design</title>
+	<title>INTERESTS</title>
 	<meta name="title" content="jQuery One Page Scroll by Pete R. | The Pete Design" />
 	<meta name="description" content="Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin by Pete Rojwongsuriya" />
 	<link rel="image_src" href="/images/tiltedpage_scroll_image.png" />
@@ -309,24 +309,28 @@
     }
     
     .tps-section:nth-child(1n+1) .tps-wrapper {
-      background: url(demo1.jpg) center center;
+      background: url(https://odis.homeaway.com/odis/destination/03dc5f84-db9b-4fb1-a952-a250e9b69344.hw1.jpg) center center;
       background-size: cover;
+      
     }
     
     .tps-section:nth-child(2n+1) .tps-wrapper {
-      background:  url(demo2.jpg) center center;
+      background:  url(https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/editorial/GranViaMadrid_1398771941838_1401274516.173.jpg?itok=GyB-gZH-) center center;
       background-size: cover;
     }
     
     .tps-section:nth-child(3n+1) .tps-wrapper {
-      background:  url(demo3.jpg) center center;
+      background:  url(http://image.masslive.com/home/mass-media/width600/img/celtics_impact/photo/jayson-tatumkyrie-irving-ca09fbb84b8bead8.jpg) center center;
       background-size: cover;
     }
     
     .tps-section:nth-child(4n+1) .tps-wrapper {
-      background:  url(demo4.jpg) center center;
+      background:  url(https://i.kinja-img.com/gawker-media/image/upload/s--M4yNO3Ve--/c_scale,f_auto,fl_progressive,q_80,w_800/ikjzvdwuxv7zvcdxfcav.jpg) center center;
       background-size: cover;
     }
+    
+      
+    
     
     .header {
       overflow: hidden;
@@ -355,66 +359,43 @@
         (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
       })();
       </script>
-      <!-- End AdPacks.com Ad Code -->
-      <div class="wrapper">	
-        <!-- AdPacks.com Zone Code -->
-        <div class="ads">
-        <div id="bsap_1291397" class="bsarocks bsap_f94cae21120e7fc7964819a7812eeffe"></div>
-        <a href="http://adpacks.com" id="bsap_aplink">via Ad Packs</a>
-        </div>
-        <!-- End AdPacks.com Zone Code -->
+  
   	  <div class="main">
 	    <div class="header">
-        <h1>jQuery Tilted Page Scroll</h1>
+        <h1>Interests , Travel , Consulting Services</h1>
         <h2>Create a 3D Tilted Scroll Effect with jQuery Tilted Page Scroll Plugin</h2>
-        <p class="credit">Created by <a href="http://www.thepetedesign.com">Pete R.</a>, Founder of <a href="http://www.travelistly.com" target="_blank">Travelistly</a> and <a href="http://www.bucketlistly.com" target="_blank">BucketListly</a></p>
-        <div class="btns">
-  	      <a class="reload btn" href="https://github.com/peachananr/flipping_gallery">Download on Github</a>
-  	    </div>
+        <p class="credit">Created by <a href="http://www.thepetedesign.com">Padraig O'Sullivan</a>, Student At <a href="https://www.ucc.ie/" target="_blank">University College Cork</a> , <a href="https://www.ucc.ie/en/ck203/" target="_blank">BIS 1</a></p>
+       
   	  </div>
   	  <section class="page1">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/visit-sydney-australia-95861" target="_blank">Travel to Sydney, Australia<br><small>Completed on 14 Feb 2014</small></a></h1>
+          <h1><a href="http://localhost:8000/Orlando.php" target="_blank">Travel to Orlando, USA<br><small>Completed on 12 April 2017</small></a></h1>
         </div>
       </section>
   	  <section class="page2">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/visit-uluru-ayers-rock-96722" target="_blank">Visit Uluru (Ayers Rock), Australia<br><small>Completed on 17 Feb 2014</small></a></h1>
+          <h1><a href="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/editorial/GranViaMadrid_1398771941838_1401274516.173.jpg?itok=GyB-gZH-" target="_blank">Visit Madrid , Spain<br><small>Completed on 25 July 2018</small></a></h1>
         </div>
       </section>
   	  <section class="page3">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/travel-to-zhangjiajie-avatar-s-mountains-china-85798" target="_blank">Travel to ZhangJiaJie (Avatar's Mountain) in China<br><small>Completed on 20 Jan 2014</small></a></h1>
+          <h1><a href="http://www.bucketlistly.com/achievements/travel-to-zhangjiajie-avatar-s-mountains-china-85798" target="_blank">NBA<br><small></small></a></h1>
         </div>
       </section>
   	  <section class="page4">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/ride-a-camel-93541" target="_blank">Ride a Camel in the Australian Outback<br><small>Completed on 17 Feb 2014</small></a></h1>
+          <h1><a href="http://www.bucketlistly.com/achievements/ride-a-camel-93541" target="_blank">Soccer<br><small></small></a></h1>
         </div>
       </section>
   	  <section class="page5">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/visit-sydney-australia-95861" target="_blank">Travel to Sydney, Australia<br><small>Completed on 14 Feb 2014</small></a></h1>
+          <h1><a href="https://www.official-esta.com/cdn/images/article-orlando.jpg" target="_blank">Basketball<br><small></small></a></h1>
         </div>
       </section>
-  	  <section class="page6">
-        <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/visit-uluru-ayers-rock-96722" target="_blank">Visit Uluru (Ayers Rock), Australia<br><small>Completed on 17 Feb 2014</small></a></h1>
-        </div>
-      </section>
-  	  <section class="page7">
-        <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/travel-to-zhangjiajie-avatar-s-mountains-china-85798" target="_blank">Travel to ZhangJiaJie (Avatar's Mountain) in China<br><small>Completed on 20 Jan 2014</small></a></h1>
-        </div>
-      </section>
-  	  <section class="page8">
-        <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/ride-a-camel-93541" target="_blank">Ride a Camel in the Australian Outback<br><small>Completed on 17 Feb 2014</small></a></h1>
-        </div>
-      </section>
+  	  
     </div>
-    <a class="back" href="http://www.thepetedesign.com/#design">Back to The Pete Design</a>
-    <a href="https://github.com/peachananr/tiltedpage-scroll"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+    <a class="back" href="http://www.thepetedesign.com/#design">Padraig O'Sullivan</a>
+   
   </div>
   
   <script>
