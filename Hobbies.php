@@ -1,6 +1,9 @@
 <!doctype html>
 <html>
 <head>
+    
+    
+
 	<meta charset="utf-8">
 	<title>INTERESTS</title>
 	<meta name="title" content="jQuery One Page Scroll by Pete R. | The Pete Design" />
@@ -19,6 +22,8 @@
   <script type="text/javascript" src="jquery.tiltedpage-scroll.js"></script>
   <link href='tiltedpage-scroll.css' rel='stylesheet' type='text/css'>
   <style>
+      
+    
     html {
       height: 100%;
     }
@@ -30,6 +35,8 @@
       position: relative;
       margin: 0;
       height: 100%;
+      background: black;
+      
     }
     
     .wrapper {
@@ -363,7 +370,7 @@
   	  <div class="main">
 	    <div class="header">
         <h1>Interests , Travel , Consulting Services</h1>
-        <h2>Create a 3D Tilted Scroll Effect with jQuery Tilted Page Scroll Plugin</h2>
+ 
         <p class="credit">Created by <a href="http://www.thepetedesign.com">Padraig O'Sullivan</a>, Student At <a href="https://www.ucc.ie/" target="_blank">University College Cork</a> , <a href="https://www.ucc.ie/en/ck203/" target="_blank">BIS 1</a></p>
        
   	  </div>
@@ -389,7 +396,7 @@
       </section>
   	  <section class="page5">
         <div class="page_container">
-          <h1><a href="https://www.official-esta.com/cdn/images/article-orlando.jpg" target="_blank">Basketball<br><small></small></a></h1>
+          <h1><a href="https://www.official-esta.com/cdn/images/article-orlando.jpg" target="_blank">Consulting Services<br><small></small></a></h1>
         </div>
       </section>
   	  
