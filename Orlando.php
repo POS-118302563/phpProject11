@@ -1,130 +1,62 @@
 <!DOCTYPE html>
 <html>
     <head>
-
-      
-      
         <style>
-          
-            body {
-                background-image: url("https://www.retirementliving.com/wp-content/uploads/2018/10/Orlando-Florida-Retirement-Living-e1539374391277.jpg");
-                
+            body{
+                background-image: url("https://coworker.imgix.net/pictures/C538/edit/Orlando%20resize.jpg");
+                background-size: 1450px 800px
+            }
+            ul{
+                list-style-type: none;
+                margin:0;
+                padding:0;
+                overflow: hidden;
+                background-color: #333
+                    
+            }
+            li{
+                float: left;
+            }
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
                 
             }
-            
-                
-                
-                
-            
-            
-            h1{
-                font-size: 50px;
-                font-family: verdana;
-                color :black;
-                text-align: center
-              }
-              
-              p1 {
-                  font-size: 20px
-              }
-              
-              ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 150px;
-  background-color: #f1f1f1;
-  border: 1px solid #555;
-}
+            li a:hover {
+                background-color: #111;
+            }
+            h1 {
+                font-size: 35px;
+                font-family: arial;
+                text-align: center;
+                color: white
+            }
+            p {
 
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-li {
-  text-align: center;
-  border-bottom: 1px solid #555;
-}
-
-li:last-child {
-  border-bottom: none;
-}
-
-li a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
-}
-                    
-                    
-                
+           color: white;
+           padding:20px;
+           border-style: double;
+           
+           font-size: 20px;
+            }
             
             
- 
-            </style>
+        </style>
     </head>
-    
     <body>
-        <h1> Orlando,Florida</h1>
-   
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
-      <span class="d-block d-lg-none">Orlando</span>
-      <span class="d-none d-lg-block">
-       
-      </span>
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#home">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="http://localhost:8000/OrlandoActivities.php" target="_top">Activities</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#sports">Sports</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#weather">Weather</a>
-        </li>
-
-        </li>
-      
-        </li>
-      </ul>
-    </div>
-  </nav>
-        <div class="container-fluid p-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="Home">
-         <div class="w-100">
-        <h2 class="mb-5">Home</h2>
-   <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="home">
-
-            <p1>Orlando is based in the U.S. State of Florida. It is located in central Florida and has a population of 2.5 million. </p1>
-          </div>
-       
-       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Activities</h3>
-  
+    <h1>Orlando , Florida</h1>
+    
 
         
-     
-
-</body>
-</html>
+        <ul>
+            <li><a class="active" href="#home">Home</a></li>
+            <li><a href="#news">Activities</a></li>
+            <li><a href="#contact">Sports</a></li>
+            <li><a href="#about">Weather</a></li>
+        </ul>
+     <p> Orlando is situated in Central Florida and has a population of over 250,000. Orlando is known as "The Theme Park Capital Of The World" and attracts over 72 million tourists every year. Tourists arrive from all over the world to visit theme parks such as DisneyWorld and Universal Studios. Orlando also holds many conventions and conferences, with The Orange County Convention Center being the second largest in the U.S. Orlando is also home to the University of Central Florida(UCF), which is the largest university in the U.S. in terms of enrollment. In 2017 around 66,000 students were enrolled in UCF. Orlando is sometimes known as "Hollywood East" because there are tons of films shot there. "Jaws 3", "TomorrowLand", "Transformers" and " Lethal Weapon 3" were all shot in Orlando.</p>
     </body>
 </html>
