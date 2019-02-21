@@ -93,10 +93,10 @@ div.desc {
 <h1>Activities</h1>
 
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a class="active" href="http://localhost:8000/Orlando.php">Home</a></li>
+  <li><a href="http://localhost:8000/Disney.php">Walt DisneyWorld</a></li>
+  <li><a href="http://localhost:8000/Universal.php">Universal Orlando Resort</a></li>
+  <li><a href="http://localhost:8000/seaworld.php">SeaWorld</a></li>
 </ul>
 
 <h2> Walt DisneyWorld</h2>
@@ -113,31 +113,33 @@ div.desc {
   <a target="_blank" href="https://disneyworld.disney.go.com/en_GB/destinations/magic-kingdom/">
     <img src="https://media2.giphy.com/media/vLsy43kpku5pK/source.gif" alt="Cinque Terre" width="600" height="400">
   </a>
-  <div class="desc">Magic Kingdom</div>
+  <div class="desc">Disney's Magic Kingdom</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://disneyworld.disney.go.com/en_GB/destinations/animal-kingdom/">
     <img src="https://www.tripsavvy.com/thmb/uK6QtwK0QRWEhdhcFvgDXeth0g0=/1875x1500/filters:fill(auto,1)/0202AU_315GD_3910-56a9510f5f9b58b7d0fa4268.jpg" alt="Forest" width="600" height="400">
   </a>
-  <div class="desc">Animal Kingdom</div>
+  <div class="desc">Disney's Animal Kingdom</div>
 </div>
 
 
 
 <div class="gallery">
   <a target="_blank" href="img_mountains.jpg">
-    <img src="https://orlandosolarbearshockey.com/wp-content/uploads/2016/08/amway-center600-3.jpg" alt="Mountains" width="600" height="400">
+    <img src="https://thedisneyblog.com/wp-content/uploads/2017/12/epcot-spaceship-earth-1.jpg" alt="Mountains" width="600" height="400">
   </a>
-  <div class="desc">Amway Center , Downtown Orlando</div>
+  <div class="desc">Disney's Epcot</div>
 </div>
      
      <div class="gallery">
   <a target="_blank" href="img_mountains.jpg">
-    <img src="https://www.twoscotsabroad.com/wp-content/uploads/2016/02/NASA-Kennedy-Space-Center-Orlando-Florida.jpg" alt="Mountains" width="600" height="400">
+    <img src="https://touringplans.com/blog/wp-content/uploads/2013/06/111.jpg" alt="Mountains" width="600" height="400">
   </a>
-  <div class="desc">Kennedy Space Center</div>
+  <div class="desc">Disney's Hollywood Studios</div>
 </div>
+
+   
 
 
 
