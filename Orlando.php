@@ -47,7 +47,7 @@
   margin: 5px;
   border: 1px solid black;
   float: left;
-  width: 330px;
+  width: 336px;
   
 }
 
@@ -97,12 +97,7 @@ div.desc {
   <div class="desc">Lake Eola</div>
 </div>
 
-<div class="gallery">
-  <a target="_blank" href="https://www.smartdestinations.com/blog/wp-content/uploads/ICON-Orlando-3-600x300.jpg">
-    <img src="https://www.smartdestinations.com/blog/wp-content/uploads/ICON-Orlando-3-600x300.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Orlando Eye</div>
-</div>
+
 
 <div class="gallery">
   <a target="_blank" href="img_mountains.jpg">
@@ -115,7 +110,7 @@ div.desc {
   <a target="_blank" href="img_mountains.jpg">
     <img src="https://www.twoscotsabroad.com/wp-content/uploads/2016/02/NASA-Kennedy-Space-Center-Orlando-Florida.jpg" alt="Mountains" width="600" height="400">
   </a>
-  <div class="desc">Amway Center , Downtown Orlando</div>
+  <div class="desc">Kennedy Space Center</div>
 </div>
      
      
