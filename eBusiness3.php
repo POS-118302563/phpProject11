@@ -1,7 +1,7 @@
 <!--Creating a session variable and assigning it to txtTotal-->
 <?php
 session_start();
-$totalvalue = "";
+$totalValue = "";
 $_SESSION['txtTotal']= $totalValue;
 ?>
 
@@ -57,6 +57,10 @@ $_SESSION['txtTotal']= $totalValue;
                         <tr>
                             <td>+Vat @40%</td>
                             <td><input type="text" id="txtVat" name="txtVat" readonly /></td>
+                        </tr>
+                        <tr>
+                            <td>Total</td>
+                            <td><input type="text" id="txtTotal" name="txtTotal" value="" readonly /></td>
                         </tr>
                         
                         

@@ -322,7 +322,7 @@
     }
     
     .tps-section:nth-child(2n+1) .tps-wrapper {
-      background:  url(https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/editorial/GranViaMadrid_1398771941838_1401274516.173.jpg?itok=GyB-gZH-) center center;
+      background:  url(https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/e3/1d/freedom-tower.jpg) center center;
       background-size: cover;
     }
     
@@ -332,7 +332,7 @@
     }
     
     .tps-section:nth-child(4n+1) .tps-wrapper {
-      background:  url(https://i.kinja-img.com/gawker-media/image/upload/s--M4yNO3Ve--/c_scale,f_auto,fl_progressive,q_80,w_800/ikjzvdwuxv7zvcdxfcav.jpg) center center;
+      background:  url("https://s.yimg.com/ny/api/res/1.2/_fRm3C4jwjVjjNPzacyOUg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-GB/homerun/omnisport.uk/81a8a0be6df995182f494b8df402e84a") center center;
       background-size: cover;
     }
     
@@ -381,17 +381,17 @@
       </section>
   	  <section class="page2">
         <div class="page_container">
-          <h1><a href="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/editorial/GranViaMadrid_1398771941838_1401274516.173.jpg?itok=GyB-gZH-" target="_blank">Visit Madrid , Spain<br><small>Completed on 25 July 2018</small></a></h1>
+          <h1><a href="http://localhost:8000/newYork.php" target="_blank">Visit New York , USA<br><small>Completed on 25 July 2018</small></a></h1>
         </div>
       </section>
   	  <section class="page3">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/travel-to-zhangjiajie-avatar-s-mountains-china-85798" target="_blank">NBA<br><small></small></a></h1>
+          <h1><a href="http://www.bucketlistly.com/achievements/travel-to-zhangjiajie-avatar-s-mountains-china-85798" target="_blank">Boston Celtic's<br><small></small></a></h1>
         </div>
       </section>
   	  <section class="page4">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/ride-a-camel-93541" target="_blank">Soccer<br><small></small></a></h1>
+          <h1><a href="https://i2-prod.manchestereveningnews.co.uk/sport/football/football-news/article15479413.ece/ALTERNATES/s615/0_GettyImages-1065915470.jpg" target="_blank">Manchester United<br><small></small></a></h1>
         </div>
       </section>
   	  <section class="page5">
